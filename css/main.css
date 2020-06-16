@@ -1,0 +1,28 @@
+body {
+  background-color: #232323;
+  font-family: "PT Sans", sans-serif;
+}
+
+.square {
+  width: 30%;
+  margin: 1.66%;
+  background-color: purple;
+  padding-bottom: 30%;
+  float: left;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+h1 {
+  color: white;
+}
+
+#stripe {
+  background-color: white;
+  height: 30px;
+  text-align: center;
+  color: black;
+}
